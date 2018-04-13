@@ -13,3 +13,4 @@ Affiliation:
 Email: nianhao.xie@outlook.com
 
 Curriculum Vitae (Waiting to Update)
+[Intro.pdf](https://github.com/nianhaoxie/about-me/edit/master/CV_NianhaoXie.pdf)
