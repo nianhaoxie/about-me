@@ -5,10 +5,7 @@ Name: Nianhao Xie<br>
 
 State: studying for my Master's Degress<br>  
 
-Affiliation:
-  Aerospace Optical Images and Vision Navigation Research Center
-  National University of Defense Technology
-  Deya Road, Kaifu District, Changsha, Hunan, China, 410071
+Affiliation: Aerospace Optical Images and Vision Navigation Research Center， National University of Defense Technology, Deya Road, Kaifu District, Changsha, Hunan, China, 410071
 
 Email: nianhao.xie@outlook.com
 
