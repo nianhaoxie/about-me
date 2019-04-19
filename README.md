@@ -3,9 +3,11 @@ self-introduction
 
 Name: Nianhao Xie<br>  
 
-State: studying for my Master's Degress<br>  
+State: PhD Student <br>  
 
-Affiliation: Aerospace Optical Images and Vision Navigation Research Center， National University of Defense Technology, Deya Road, Kaifu District, Changsha, Hunan, China, 410071
+Affiliation: 
+(Now, Phd Student) Department of Astronautical Science and Engineering， National University of Defense Technology, Deya Road, Kaifu District, Changsha, Hunan, China, 410073 <br>  
+(Before, Master)   Aerospace Optical Images and Vision Navigation Research Center， National University of Defense Technology, Deya Road, Kaifu District, Changsha, Hunan, China, 410073 <br>  
 
 Email: nianhao.xie@outlook.com
 
